@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Wimmer;Christof;;;
+FN:Christof Wimmer
+ORG:Feine Gärten
+ROLE:Inhaber
+TITLE:Meister im Garten- und Landschaftsbau
+TEL;TYPE=cell,voice;VALUE=uri:tel:+49-178-4581127
+ADR;TYPE=work;LABEL="Lakemannstr. 14\n33613 Bielefeld\nDeutschland":;;Lakemannstr. 14;Bielefeld;;33613;Germany
+EMAIL:info@feine-gaerten.com
+URL:https://www.feine-gaerten.com
+LANG:de-DE
+REV:20261117T120000Z
+END:VCARD
